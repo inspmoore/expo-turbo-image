@@ -1,0 +1,30 @@
+{
+  "name": "expo-turbo-image",
+  "version": "1.1",
+  "main": "index.js",
+  "description": "Expo/RN Image component with caching enabled and progressive loading.",
+  "repository": {
+    "type": "git",
+    "url": "https://lucasmorawski@bitbucket.org/teamdasher/expo-turbo-image.git"
+  },
+  "author": {
+    "name": "Lucas Mórawski",
+    "email": "morawski.lukasz@outlook.com"
+  },
+  "keywords": [
+    "react",
+    "image",
+    "cache",
+    "expo",
+    "progressive loading"
+  ],
+  "peerDependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
